@@ -1,0 +1,60 @@
+{
+  "_from": "temp-mail",
+  "_id": "temp-mail@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-uRsMls2RTWc+ueqflX45oaTwrA4=",
+  "_location": "/temp-mail",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "temp-mail",
+    "name": "temp-mail",
+    "escapedName": "temp-mail",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/temp-mail/-/temp-mail-2.0.0.tgz",
+  "_shasum": "b91b0c96cd914d673eb9ea9f957e39a1a4f0ac0e",
+  "_spec": "temp-mail",
+  "_where": "/Users/stas/Projects/webcam",
+  "author": {
+    "name": "Ilnur Khalilov",
+    "email": "ilnur.khalilov@gmail.com",
+    "url": "ilnurkhalilov.ru"
+  },
+  "bugs": {
+    "url": "https://github.com/xomyaq/tempmail/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Node.js API wrapper for temp-mail.ru",
+  "devDependencies": {
+    "eslint": "^2.10.0",
+    "eslint-config-airbnb-base": "^3.0.1",
+    "eslint-plugin-import": "^1.8.0",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "homepage": "https://github.com/xomyaq/tempmail#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "temp-mail",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xomyaq/tempmail.git"
+  },
+  "scripts": {
+    "lint": "node ./node_modules/eslint/bin/eslint.js index.js tests/*.js",
+    "test": "node test/tempmail.js | tap-spec"
+  },
+  "version": "2.0.0"
+}

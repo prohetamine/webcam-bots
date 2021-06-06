@@ -1,0 +1,141 @@
+{
+  "cookies": [
+    {
+      "name": "_gat",
+      "value": "1",
+      "domain": ".chaturbate.com",
+      "path": "/",
+      "expires": 11590945984,
+      "size": 5,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "csrftoken",
+      "value": "8Jf1SpG24K2yACmWe05oClluzKJveGjAFxMotEhk12ctsz1qluWsPkvztesFBQ4K",
+      "domain": "chaturbate.com",
+      "path": "/",
+      "expires": 11622395522.306013,
+      "size": 73,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1034132056.1590945840",
+      "domain": ".chaturbate.com",
+      "path": "/",
+      "expires": 11591032324,
+      "size": 31,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "sessionid",
+      "value": "cue22qtojy88bccibvbpsd97hgshvake",
+      "domain": ".chaturbate.com",
+      "path": "/",
+      "expires": 11592155522.737051,
+      "size": 41,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.96532683.1590945840",
+      "domain": ".chaturbate.com",
+      "path": "/",
+      "expires": 11654017924,
+      "size": 28,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "xaduuid",
+      "value": "e1cb2e5e-ad73-41b1-9aad-907427b5147f",
+      "domain": "chaturbate.com",
+      "path": "/",
+      "expires": 11591550723,
+      "size": 43,
+      "httpOnly": false,
+      "secure": false,
+      "session": false
+    },
+    {
+      "name": "__cfduid",
+      "value": "d04c43498c73b662114f4a0f0a2c557ad1590949440",
+      "domain": ".chaturbate.com",
+      "path": "/",
+      "expires": 11593537833.80706,
+      "size": 51,
+      "httpOnly": true,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sbr",
+      "value": "\"sec:sbre9707f23-28c3-490b-9f45-abc61358406a:1jfScr:RM4CHrD3gXRZ_FXO1_8Sd8wM2Ro\"",
+      "domain": "chaturbate.com",
+      "path": "/",
+      "expires": 11677259435.325037,
+      "size": 83,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "affkey",
+      "value": "\"eJyrVipSslJQUqoFAAwfAk0=\"",
+      "domain": ".chaturbate.com",
+      "path": "/",
+      "expires": 11593537835.324801,
+      "size": 32,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "dwf_s_a",
+      "value": "False",
+      "domain": "chaturbate.com",
+      "path": "/",
+      "expires": 11593537922.737364,
+      "size": 12,
+      "httpOnly": false,
+      "secure": true,
+      "session": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "1fbb5a72888a8cdffcc3d399d52d6b49eff9ef24-1590949441-1800-Ad0WAL/8P1FPpRbLU6J7MysGgbzA6J1oVUMnenRwbbduu0dvqUfLpZYpgNUmt/LXyUaelF08hiXWwzAeJg6I5fk=",
+      "domain": ".chaturbate.com",
+      "path": "/",
+      "expires": 11590947634.807616,
+      "size": 152,
+      "httpOnly": true,
+      "secure": true,
+      "session": false,
+      "sameSite": "None"
+    }
+  ],
+  "user": {
+    "username": "555ORELLAANNES",
+    "password": "3f84fcdb7f3",
+    "email": "555ore27@dfb55.com",
+    "month": "November",
+    "day": "19",
+    "year": "1979",
+    "gender": "m"
+  }
+}

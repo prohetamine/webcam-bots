@@ -1,0 +1,30 @@
+{
+  "name": "webcam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-anon": "node src/anonymous/browser.js",
+    "test-reg": "node src/registration/browser.js",
+    "test-real": "node src/realaccount/browser.js",
+    "anon": "node src/anonymous/index.js",
+    "reg": "node src/registration/index.js",
+    "vpnrefresh": "node src/vpnrefresh/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "md5": "^2.2.1",
+    "puppeteer": "^3.1.0",
+    "puppeteer-extra": "^3.1.9",
+    "puppeteer-extra-plugin-proxy": "^1.0.2",
+    "puppeteer-extra-plugin-recaptcha": "^3.1.10",
+    "random-name": "^0.1.2",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "sleep-promise": "^8.0.1",
+    "temp-mail": "^2.0.0"
+  }
+}
